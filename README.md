@@ -42,7 +42,6 @@ jobs:
     <!-- Dark Mode: Pink Sparkle Wave with "Shafqa Fatma" -->
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=twinkle&theme=dark&descAlignY=65">
     
-    <!-- Light Mode: Soft Pink Wave with "Shafqa Fatma" -->
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=twinkle&theme=light&descAlignY=65">
     
     <!-- Fallback (Working and matches theme) -->
