@@ -38,14 +38,10 @@ jobs:
 -->
 
 <div align="center">
-  <!-- Waving Header Banner with Custom Pink Gradient & Subtitle -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Frontend%20Intern&descSize=20&descAlignY=55&fontColor=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:EF93C4&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Frontend%20Intern&descSize=20&descAlignY=55&fontColor=333333">
-    <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Frontend%20Intern&descSize=20&descAlignY=55&fontColor=ffffff" width="100%">
-  </picture>
+  <!-- Custom Gradient Header Banner (using the local banner.svg file) -->
+  <img src="./banner.svg" width="100%" alt="Shafqa Fatma Banner" style="border-radius: 12px; margin-bottom: 20px;" />
 
-  <br />
+  <br /><br />
 
   <!-- Centered Large Title -->
   <h1>Hey there, I'm Shafqa Fatma 👋</h1>
@@ -153,11 +149,7 @@ I am a passionate **Full Stack Developer** and an IT undergraduate at **Ajay Kum
 
 <br />
 
-<!-- Waving Footer Render -->
+<!-- Waving Footer (using local footer.svg) -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=120&section=footer&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:EF93C4&height=120&section=footer&theme=light">
-    <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=120&section=footer" width="100%">
-  </picture>
+  <img src="./footer.svg" width="100%" alt="Footer Wave" />
 </div>
