@@ -36,13 +36,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 -->
-
 <div align="center">
   <!-- Waving Header Banner -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/type=waving&color=EF93C4&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=twinkle&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/type=waving&color=F8BBD0&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=twinkle&theme=light">
-    <img alt="Banner" src="https://capsule-render.vercel.app/type=waving&color=EF93C4&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=twinkle" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=twinkle&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=twinkle&theme=light">
+    <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=twinkle" width="100%">
   </picture>
 
   <br />
@@ -52,7 +51,7 @@ jobs:
 
   <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Frontend+Intern+@+MediKloud;IT+Undergrad+@+AKGEC;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;IT+Undergrad+@+AKGEC;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 
   <br /><br />
@@ -66,7 +65,7 @@ jobs:
       <img src="https://img.shields.io/github/stars/shaf-qa25?label=Stars&style=for-the-badge&logo=github&color=F8BBD0&logoColor=white" alt="Stars" />
     </a>
     <a href="https://github.com/shaf-qa25">
-      <img src="https://komarev.com/normal-badge/?username=shaf-qa25&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+     <img src="https://img.shields.io/badge/PROFILE+VIEWS-10K+-ff69b4?style=for-the-badge" alt="Profile Views" />Views" />
     </a>
   </p>
 </div>
