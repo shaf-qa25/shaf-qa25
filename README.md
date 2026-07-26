@@ -38,10 +38,14 @@ jobs:
 -->
 
 <div align="center">
-  <!-- Custom Gradient Header Banner (using the local banner.svg file) -->
-  <img src="./banner.svg" width="100%" alt="Shafqa Fatma Banner" style="border-radius: 12px; margin-bottom: 20px;" />
+  <!-- Waving Header Banner with Auto-Matching Pink Theme -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Frontend%20Intern&descSize=20&descAlignY=55&fontColor=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Frontend%20Intern&descSize=20&descAlignY=55&fontColor=333333">
+    <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Frontend%20Intern&descSize=20&descAlignY=55" width="100%">
+  </picture>
 
-  <br /><br />
+  <br />
 
   <!-- Centered Large Title -->
   <h1>Hey there, I'm Shafqa Fatma 👋</h1>
@@ -62,7 +66,7 @@ jobs:
       <img src="https://img.shields.io/github/stars/shaf-qa25?label=Stars&style=for-the-badge&logo=github&color=F8BBD0&logoColor=white" alt="Stars" />
     </a>
     <a href="https://github.com/shaf-qa25">
-      <img src="https://komarev.com/normal-badge/?username=shaf-qa25&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+      <img src="https://img.shields.io/badge/PROFILE+VIEWS-100+-ff69b4?style=for-the-badge" alt="Profile Views" />
     </a>
   </p>
 </div>
@@ -149,7 +153,11 @@ I am a passionate **Full Stack Developer** and an IT undergraduate at **Ajay Kum
 
 <br />
 
-<!-- Waving Footer (using local footer.svg) -->
+<!-- Waving Footer Render -->
 <div align="center">
-  <img src="./footer.svg" width="100%" alt="Footer Wave" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=120&section=footer">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=120&section=footer">
+    <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=120&section=footer" width="100%">
+  </picture>
 </div>
