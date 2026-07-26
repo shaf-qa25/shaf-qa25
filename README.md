@@ -38,11 +38,11 @@ jobs:
 -->
 
 <div align="center">
-  <!-- Waving Header Banner -->
+  <!-- Waving Header Banner with Custom Pink Gradient & Subtitle -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=fadeIn&theme=dark&descAlignY=65">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=fadeIn&theme=light&descAlignY=65">
-    <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=fadeIn&theme=dark&descAlignY=65" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Frontend%20Intern&descSize=20&descAlignY=55&fontColor=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:EF93C4&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Frontend%20Intern&descSize=20&descAlignY=55&fontColor=333333">
+    <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Frontend%20Intern&descSize=20&descAlignY=55&fontColor=ffffff" width="100%">
   </picture>
 
   <br />
@@ -156,8 +156,8 @@ I am a passionate **Full Stack Developer** and an IT undergraduate at **Ajay Kum
 <!-- Waving Footer Render -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=120&section=footer&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=120&section=footer&theme=light">
-    <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=120&section=footer" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=120&section=footer&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:EF93C4&height=120&section=footer&theme=light">
+    <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=120&section=footer" width="100%">
   </picture>
 </div>
