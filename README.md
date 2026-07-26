@@ -61,7 +61,7 @@ jobs:
 
   <br /><br />
 
-  <!-- Pink GitHub Badges -->
+  <!-- Pink GitHub Badges (Fixed Views Badge) -->
   <p align="center">
     <a href="https://github.com/shaf-qa25">
       <img src="https://img.shields.io/github/followers/shaf-qa25?label=Followers&style=for-the-badge&logo=github&color=EF93C4&logoColor=white" alt="Followers" />
@@ -70,7 +70,7 @@ jobs:
       <img src="https://img.shields.io/github/stars/shaf-qa25?label=Stars&style=for-the-badge&logo=github&color=F8BBD0&logoColor=white" alt="Stars" />
     </a>
     <a href="https://github.com/shaf-qa25">
-     <img src="https://img.shields.io/badge/PROFILE+VIEWS-10K+-ff69b4?style=for-the-badge" alt="Profile Views" />Views" />
+      <img src="https://img.shields.io/badge/PROFILE+VIEWS-10K+-ff69b4?style=for-the-badge" alt="Profile Views" />
     </a>
   </p>
 </div>
@@ -147,25 +147,13 @@ jobs:
 
 <br /><hr /><br />
 
-<!-- Connect Badge Section -->
+<!-- Connect Badge Section (Cleaned up) -->
 <div align="center">
   <h3>🤝 Connect with Me</h3>
   <br />
   <p align="center">
     <a href="https://linkedin.com/in/shafqa-fatma-bb0111380" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://x.com/[YOUR_X_USERNAME]" target="_blank">
-      <img src="https://img.shields.io/badge/X-F8BBD0?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-    </a>
-    <a href="https://instagram.com/[YOUR_INSTAGRAM_USERNAME]" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://tiktok.com/@[YOUR_TIKTOK_USERNAME]" target="_blank">
-      <img src="https://img.shields.io/badge/TikTok-EF93C4?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-    </a>
-    <a href="https://youtube.com/@[YOUR_YOUTUBE_CHANNEL]" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-F8BBD0?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
     </a>
     <a href="mailto:fatmashafqa4@gmail.com">
       <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -175,11 +163,11 @@ jobs:
 
 <br />
 
-<!-- Waving Footer Render -->
+<!-- Waving Footer Render (Fixed) -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/type=waving&color=EF93C4&height=120&section=footer&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/type=waving&color=F8BBD0&height=120&section=footer&theme=light">
-    <img alt="Footer" src="https://capsule-render.vercel.app/type=waving&color=EF93C4&height=120&section=footer" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=120&section=footer&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=120&section=footer&theme=light">
+    <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=120&section=footer" width="100%">
   </picture>
 </div>
