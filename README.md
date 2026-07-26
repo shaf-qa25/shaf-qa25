@@ -36,16 +36,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 -->
+
 <div align="center">
   <!-- Waving Header Banner -->
   <picture>
-    <!-- Dark Mode: Pink Sparkle Wave with "Shafqa Fatma" -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=twinkle&theme=dark&descAlignY=65">
-    
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=twinkle&theme=light&descAlignY=65">
-    
-    <!-- Fallback (Working and matches theme) -->
-    <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=twinkle&theme=dark&descAlignY=65" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=fadeIn&theme=dark&descAlignY=65">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=fadeIn&theme=light&descAlignY=65">
+    <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=fadeIn&theme=dark&descAlignY=65" width="100%">
   </picture>
 
   <br />
@@ -55,12 +52,12 @@ jobs:
 
   <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;IT+Undergrad+@+AKGEC;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;IT+Undergrad+%40+AKGEC;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 
   <br /><br />
 
-  <!-- Pink GitHub Badges (Fixed Views Badge) -->
+  <!-- Pink GitHub Badges -->
   <p align="center">
     <a href="https://github.com/shaf-qa25">
       <img src="https://img.shields.io/github/followers/shaf-qa25?label=Followers&style=for-the-badge&logo=github&color=EF93C4&logoColor=white" alt="Followers" />
@@ -69,32 +66,26 @@ jobs:
       <img src="https://img.shields.io/github/stars/shaf-qa25?label=Stars&style=for-the-badge&logo=github&color=F8BBD0&logoColor=white" alt="Stars" />
     </a>
     <a href="https://github.com/shaf-qa25">
-      <img src="https://img.shields.io/badge/PROFILE+VIEWS-10K+-ff69b4?style=for-the-badge" alt="Profile Views" />
+      <img src="https://komarev.com/normal-badge/?username=shaf-qa25&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
     </a>
   </p>
 </div>
 
 <br /><hr /><br />
 
-<!-- About Me Section -->
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="65%" valign="top" style="border: none; padding-right: 20px;">
-      <h3>💫 About Me</h3>
-      <p>I am a passionate <strong>Full Stack Developer</strong> and an IT undergraduate at <strong>Ajay Kumar Garg Engineering College (2024-2028)</strong>. Currently, I am expanding my skills as a <strong>Frontend Developer Intern</strong> at <strong>MediKloud Tech</strong> and contributing as a developer at <strong>BDCOE</strong>.</p>
-      <ul>
-        <li>💼 Frontend Developer Intern at <strong>MediKloud Tech</strong> (developing responsive layouts and reusable UI modules)</li>
-        <li>🌱 Diving deep into <strong>Prisma, Drizzle ORM, PostgreSQL, and FastAPI</strong></li>
-        <li>🚀 Passionate about building robust web apps, SaaS tools, and auditing ML models for fairness</li>
-        <li>💬 Ask me about <strong>React, Next.js, TypeScript, and MongoDB</strong></li>
-        <li>✉️ Reach out to me: <a href="mailto:fatmashafqa4@gmail.com"><strong>fatmashafqa4@gmail.com</strong></a></li>
-      </ul>
-    </td>
-    <td width="35%" align="center" valign="middle" style="border: none;">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdtcmN0cWNpMHp1bWc3M3Y4cmk2MHphOHlseHhpdnJvM2p6b2phMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfZ2lmcyZjdD1z/L13yI8917j5DTC67rP/giphy.gif" width="100%" style="border-radius: 10px; max-width: 250px;" alt="Coding Illustration" />
-    </td>
-  </tr>
-</table>
+<!-- About Me Section with Wrapping Image (No Borders) -->
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdtcmN0cWNpMHp1bWc3M3Y4cmk2MHphOHlseHhpdnJvM2p6b2phMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfZ2lmcyZjdD1z/L13yI8917j5DTC67rP/giphy.gif" width="30%" alt="Coding Illustration" />
+
+### 💫 About Me
+I am a passionate **Full Stack Developer** and an IT undergraduate at **Ajay Kumar Garg Engineering College (2024-2028)**. Currently, I am expanding my skills as a **Frontend Developer Intern** at **MediKloud Tech** and contributing as a developer at **BDCOE**.
+
+* 💼 Frontend Developer Intern at **MediKloud Tech** (developing responsive layouts and reusable UI modules)
+* 🌱 Diving deep into **Prisma, Drizzle ORM, PostgreSQL, and FastAPI**
+* 🚀 Passionate about building robust web apps, SaaS tools, and auditing ML models for fairness
+* 💬 Ask me about **React, Next.js, TypeScript, and MongoDB**
+* ✉️ Reach out to me: [**fatmashafqa4@gmail.com**](mailto:fatmashafqa4@gmail.com)
+
+<br clear="right" />
 
 <br /><hr /><br />
 
@@ -146,7 +137,7 @@ jobs:
 
 <br /><hr /><br />
 
-<!-- Connect Badge Section (Cleaned up) -->
+<!-- Connect Badge Section -->
 <div align="center">
   <h3>🤝 Connect with Me</h3>
   <br />
@@ -162,7 +153,7 @@ jobs:
 
 <br />
 
-<!-- Waving Footer Render (Fixed) -->
+<!-- Waving Footer Render -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=120&section=footer&theme=dark">
