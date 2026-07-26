@@ -39,9 +39,14 @@ jobs:
 <div align="center">
   <!-- Waving Header Banner -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/type=waving&color=EF93C4&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=twinkle&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/type=waving&color=F8BBD0&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=twinkle&theme=light">
-    <img alt="Banner" src="https://aurorareykjavik.is/product/pink-aurora-at-east-iceland-fine-art-print-behind-6mm-acrylic-glass-5075-cm-3020-in/" width="100%">
+    <!-- Dark Mode: Pink Sparkle Wave with "Shafqa Fatma" -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=twinkle&theme=dark&descAlignY=65">
+    
+    <!-- Light Mode: Soft Pink Wave with "Shafqa Fatma" -->
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=twinkle&theme=light&descAlignY=65">
+    
+    <!-- Fallback (Working and matches theme) -->
+    <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=twinkle&theme=dark&descAlignY=65" width="100%">
   </picture>
 
   <br />
