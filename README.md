@@ -39,12 +39,11 @@ jobs:
 
 <div align="center">
   <!-- Waving Header Banner with Auto-Matching Pink Theme -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Frontend%20Intern&descSize=20&descAlignY=55&fontColor=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Frontend%20Intern&descSize=20&descAlignY=55&fontColor=333333">
-    <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=250&section=header&text=Shafqa%20Fatma&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Frontend%20Intern&descSize=20&descAlignY=55" width="100%">
-  </picture>
-
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="shaf-qa25's GitHub profile" src="dark_mode.svg" />
+</picture>
   <br />
 
   <!-- Centered Large Title -->
